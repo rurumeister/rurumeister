@@ -1,13 +1,10 @@
-# Hi there, I'm Elroy Chua 👋
+# Hi there, I'm Elroy 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://portfolio-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/elroy-chua/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)]([https://portfolio-link](https://elroyportfolio.vercel.app/))
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:elroymx@gmail.com)
 
 ## 💼 About Me
-
-Associate Software Engineer II at Ensign InfoSecurity with expertise in full-stack development, security applications, and enterprise solutions. I specialize in building performant web applications and security tools that solve real-world problems.
-
 - 🔭 Currently working on enterprise security solutions and threat visualization platforms
 - 🌱 Learning advanced cloud architecture and ML integration
 - 👯 Open to collaborate on innovative projects in security, data visualization, or productivity tools
@@ -57,31 +54,23 @@ Associate Software Engineer II at Ensign InfoSecurity with expertise in full-sta
 
 ## 🚀 Featured Projects
 
-### [Filmo](https://project-link)
+### [Filmo] - WIP
 Image management platform supporting 250,000 images monthly with cross-platform mobile and web interfaces.
 - **Tech Stack:** Next.js, React Native, Supabase, PostgreSQL, AWS S3
 
-### [SchemesSG](https://project-link)
+### [SchemesSG](https://schemes.sg/)
 Public assistance platform helping Singapore residents access government schemes with AI assistance.
 - **Tech Stack:** Next.js, Python, GPT, Firebase, Docker
 
-### [ArtySticks](https://project-link)
+### [ArtySticks](https://www.artysticks.com/)
 Responsive client website with SEO optimization and integrated student management.
 - **Tech Stack:** React, Next.js, Google Analytics
+
+### [SaltandPeps](https://www.saltandpeps.com/)
+Photography portfolio website with CMS and Email automation.
+- **Tech Stack:** React, Next.js, Hygraph, Sendgrid
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rurumeister&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rurumeister&layout=compact&theme=tokyonight)
-
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rurumeister&theme=github)
-
----
-
-<p align="center">
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"/></a>
-  <a href="mailto:elroymx@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red" alt="Email"/></a>
-  <a href="https://portfolio-link"><img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen" alt="Portfolio"/></a>
-</p>
