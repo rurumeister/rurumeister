@@ -69,8 +69,3 @@ Responsive client website with SEO optimization and integrated student managemen
 ### [SaltandPeps](https://www.saltandpeps.com/)
 Photography portfolio website with CMS and Email automation.
 - **Tech Stack:** React, Next.js, Hygraph, Sendgrid
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rurumeister&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rurumeister&layout=compact&theme=tokyonight)
